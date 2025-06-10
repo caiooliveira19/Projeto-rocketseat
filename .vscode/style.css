@@ -81,7 +81,7 @@ body * {
 }
 
 .light #switch button {
-  animation: slide-in 0.4s forwards;
+  animation: slide-in 0.5s forwards;
 }
 
 #switch button :hover {
